@@ -1,0 +1,88 @@
+{
+  "photo_of_day":[
+  {
+    "pid": "01",
+    "name": "Jack Chan",
+    "bird_type": 1,
+    "thumbnail": ["images/upload/p01s.jpg"],
+    "picture": ["images/upload/p01.jpg"],
+    "date": "2023/01/02 1:30PM",
+    "title": "title",
+    "content":"content",
+    "email": "jack.chan@abccompany.com",
+    "location": "Hong Kong",
+    "coordinate":["22.31944","114.17778"]
+  }
+  ,
+    {
+    "pid": "02",
+    "name": "Jack Chan",
+    "bird_type": 1,
+    "thumbnail": ["images/upload/p02s.jpg"],
+    "picture": ["images/upload/p02.jpg"],
+    "date": "2023/01/02 1:30PM",
+    "title": "title",
+    "content":"content",
+    "email": "jack.chan@abccompany.com",
+    "location": "Hong Kong",
+    "coordinate":["22.31944","114.17778"]
+  }
+  ,
+    {
+    "pid": "03",
+    "name": "Jack Chan",
+    "bird_type": 1,
+    "thumbnail": ["images/upload/p03s.jpg"],
+    "picture": ["images/upload/p03.jpg"],
+    "date": "2023/01/02 1:30PM",
+    "title": "title",
+    "content":"content",
+    "email": "jack.chan@abccompany.com",
+    "location": "Hong Kong",
+    "coordinate":["22.31944","114.17778"]
+  }
+  ,
+    {
+    "pid": "04",
+    "name": "Jack Chan",
+    "bird_type": 1,
+    "thumbnail": ["images/upload/p04s.jpg"],
+    "picture": ["images/upload/p04.jpg"],
+    "date": "2023/01/02 1:30PM",
+    "title": "title",
+    "content":"content",
+    "email": "jack.chan@abccompany.com",
+    "location": "Hong Kong",
+    "coordinate":["22.31944","114.17778"]
+  }
+  ,
+    {
+    "pid": "05",
+    "name": "Jack Chan",
+    "bird_type": 1,
+    "thumbnail": ["images/upload/p05s.jpg"],
+    "picture": ["images/upload/p05.jpg"],
+    "date": "2023/01/02 1:30PM",
+    "title": "title",
+    "content":"content",
+    "email": "jack.chan@abccompany.com",
+    "location": "Hong Kong",
+    "coordinate":["22.31944","114.17778"]
+  }
+    ,
+    {
+    "pid": "06",
+    "name": "Jack Chan",
+    "bird_type": 1,
+    "thumbnail": ["images/upload/p06s.jpg"],
+    "picture": ["images/upload/p06.jpg"],
+    "date": "2023/01/02 1:30PM",
+    "title": "title",
+    "content":"content",
+    "email": "jack.chan@abccompany.com",
+    "location": "Hong Kong",
+    "coordinate":["22.31944","114.17778"]
+  }
+  
+  ]
+}
